@@ -6,3 +6,6 @@
 ★ Designed reusable UI components and followed clean architecture practices for scalability and maintainability.
 DASHBOARD
 ![image alt](https://github.com/Nareshkumar2583/Supply_chain_dashboard/blob/e5601e2f9f735e16a635074c7cb06db44c58220a/Image/Screenshot%202025-12-17%20135905.png)
+## 🌍 Open Source
+This project is open source and available for learning, collaboration, and improvement.
+Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
