@@ -12,7 +12,7 @@ DASHBOARD
 - MySQL
 - Maven
 ## 🧭 Project Structure
-- backend/ → Spring Boot APIs
+- src/ → Spring Boot APIs
 - supply-dashboard/ → React frontend
 - images/ → README screenshots
   
